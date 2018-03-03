@@ -1,2 +1,2 @@
 # ansible-docker
-Docker image to run ansible
+Minimal ansible installation based on alpine linux
